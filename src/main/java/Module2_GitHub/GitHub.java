@@ -6,5 +6,10 @@ public class GitHub
 		
 		System.out.println("Module2_Github created by Bhavana");
 	}
+	
+	public void m1() 
+	{
+		System.out.println("Method m1 running");
+	}
 
 }
